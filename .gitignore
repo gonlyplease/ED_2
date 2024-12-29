@@ -22,7 +22,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-ed-venv/
+/ed-venv/
 
 
 # PyInstaller
