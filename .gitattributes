@@ -1,3 +1,6 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+data/processed/train_set.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/tfidf_features.npz filter=lfs diff=lfs merge=lfs -text
+data/processed/valid_set.csv filter=lfs diff=lfs merge=lfs -text
